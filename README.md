@@ -46,8 +46,8 @@ class BackendDeveloper:
     def daily_routine(self):
         return "☕ Coffee → 💻 Code → 🚀 Improve → 🔁 Repeat"
 
-me = BackendDeveloper()
-print(me.daily_routine())
+    me = BackendDeveloper()
+    print(me.daily_routine())
 </td> </tr> </table>
 ⚡ Tech Stack
 <div align="center">
