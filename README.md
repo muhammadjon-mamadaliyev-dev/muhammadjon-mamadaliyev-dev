@@ -90,4 +90,4 @@ print(me.daily_routine())
 
 <sub>⚡ Built with 💻, ☕ and 🚀 by <strong>Muhammadjon Mamadaliyev</strong> | 2025 ⚡</sub>
 
-</div> ```
+</div>
