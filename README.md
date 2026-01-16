@@ -34,7 +34,7 @@
 
 <td width="55%">
 
-```python
+python
 class BackendDeveloper:
     def __init__(self):
         self.name = "Muhammadjon Mamadaliyev"
@@ -61,4 +61,4 @@ print(me.daily_routine())
 <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadjon-mamadaliyev-dev&show_icons=true&theme=tokyonight"/> <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjon-mamadaliyev-dev&theme=tokyonight"/> </div>
 🤝 Connect With Me
 <div align="center"> <a href="https://instagram.com/mukhammadjan_017"> <img src="https://img.shields.io/badge/Instagram-mukhammadjan__017-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/Mukhammadjan_1"> <img src="https://img.shields.io/badge/Telegram-Mukhammadjan__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mamadaliyevmukhammadjan14@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> <sub>🚀 Built by Muhammadjon Mamadaliyev | Backend Developer</sub> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> <sub>🚀 Built by Muhammadjon Mamadaliyev | Backend Developer</sub> </div> 
