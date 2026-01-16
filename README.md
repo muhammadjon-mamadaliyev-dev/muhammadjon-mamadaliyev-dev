@@ -62,3 +62,32 @@ print(me.daily_routine())
 🤝 Connect With Me
 <div align="center"> <a href="https://instagram.com/mukhammadjan_017"> <img src="https://img.shields.io/badge/Instagram-mukhammadjan__017-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/Mukhammadjan_1"> <img src="https://img.shields.io/badge/Telegram-Mukhammadjan__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mamadaliyevmukhammadjan14@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> <sub>🚀 Built by Muhammadjon Mamadaliyev | Backend Developer</sub> </div> 
+
+
+</td> </tr> </table> <!-- Working Divider --> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </div>
+⚡ My Tech Arsenal
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; margin: 20px 0;">
+🚀 Languages & Frameworks
+
+
+
+
+
+
+🛠️ Tools & Databases
+
+
+
+
+
+
+</div> <!-- Working Divider --> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" /> </div>
+📊 GitHub Stats
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadjon-mamadaliyev-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&icon_color=00F2FE&border_radius=15"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjon-mamadaliyev-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&border_radius=15"/> </div> <div align="center" style="margin: 20px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjon-mamadaliyev-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" /> </div> <!-- Activity Graph --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadjon-mamadaliyev-dev&theme=react-dark&bg_color=0D1117&color=4FACFE&line=00F2FE&point=764ba2&area=true&hide_border=true" width="95%"/> </div> <!-- Working Divider --> <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /> </div>
+🤝 Let's Connect & Build Something Epic!
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #667eea); padding: 30px; border-radius: 20px; margin: 20px;"> <a href="https://instagram.com/mukhammadjan_017"> <img src="https://img.shields.io/badge/📸_Instagram-mukhammadjan__017-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/Mukhammadjan_1"> <img src="https://img.shields.io/badge/💬_Telegram-Mukhammadjan__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mamadaliyevmukhammadjan14@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<!-- Cool Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&height=120&section=footer&animation=fadeIn" />
+
+<sub>⚡ Built with 💻, ☕ and 🚀 by <strong>Muhammadjon Mamadaliyev</strong> | 2025 ⚡</sub>
+
+</div> ```
